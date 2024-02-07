@@ -2,4 +2,4 @@
 
 This repo contains everything associated with assignment 4 of the bash course.
 
-![alt text][ScienceOnAServer.png]
+![alt text](ScienceOnAServer.png "img")
